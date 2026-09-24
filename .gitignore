@@ -1,0 +1,13 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Données et modèles locaux (à adapter selon vos extensions)
+data/
+*.csv
+*.parquet
